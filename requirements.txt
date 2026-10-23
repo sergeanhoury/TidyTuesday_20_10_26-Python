@@ -1,4 +1,4 @@
 pandas
-matplotlib.pyplot
-sklearn.cluster
+matplotlib
+sklearn
 pydytuesday
